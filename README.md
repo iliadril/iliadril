@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iliadril
 - 👀 I’m interested in blockchain technology, data visualisation and cloud solutions
-- 🌱 I’m currently learning some CS Uni stuff and Golang
+- 🌱 I’m currently learning some CS Uni stuff and Go
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me - iliadril@proton.me/xiliadril@gmail.com
